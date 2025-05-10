@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/striggscripts/bgsi
+loadstring(game:HttpGet("http://vpaste.net/ZzsYg"))()
